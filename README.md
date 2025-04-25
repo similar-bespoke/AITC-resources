@@ -11,9 +11,9 @@ This is a simple page so that people can find resources related to the speech I 
 ## Critical documents to read
 
 The Everything Code by Raoul Pal & Julien Bittel
-- part 1
-- part 2
-- part 3
+[Part 1](./TEC_1.pdf)
+[Part 2](./TEC_2.pdf)
+[Part 3](./TEC_3.pdf)
 
 ## Investment Community to join
 
