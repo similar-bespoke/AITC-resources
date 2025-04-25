@@ -2,6 +2,10 @@
 
 This is a simple page so that people can find resources related to the speech I gave at the Abingdon Investment & Trading Club on 24 April 2025.
 
+## Presentation Notes
+
+[Speaker notes](./AITC_notes.md)
+
 ## Critical documents to read
 
 The Everything Code by Raoul Pal & Julien Bittel
