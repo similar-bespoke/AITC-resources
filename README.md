@@ -117,6 +117,3 @@ Realvision.com - Free tier but I recommend investing in the Plus Tier or higher 
 [Arthur Hayes - crypto and macro commentator](https://x.com/CryptoHayes)  
 
 [Velina Tchakarova - geo-political analyst](https://x.com/vtchakarova)  
-```
-
-This version now has proper line breaks between all the links. Let me know if you need further adjustments!
