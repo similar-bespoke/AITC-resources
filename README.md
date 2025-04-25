@@ -10,10 +10,7 @@ This is a simple page so that people can find resources related to the speech I 
 
 ## Critical documents to read
 
-The Everything Code by Raoul Pal & Julien Bittel
-[Part 1](./TEC_1.pdf)
-[Part 2](./TEC_2.pdf)
-[Part 3](./TEC_3.pdf)
+[The Everything Code by Raoul Pal & Julien Bittel](./TEC.pdf)
 
 ## Investment Community to join
 
