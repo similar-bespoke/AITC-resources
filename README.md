@@ -5,6 +5,7 @@ This is a simple page so that people can find resources related to the speech I 
 ## Presentation Notes
 
 [Speaker notes](./AITC_notes.md)
+
 [Presentation slides](./AITC_slides.pdf)
 
 ## Critical documents to read
