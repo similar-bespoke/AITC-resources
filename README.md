@@ -14,7 +14,7 @@ This is a simple page so that people can find resources related to the speech I 
 
 ## Investment Community to join
 
-Realvision.com - Free tier but I recommend investing in the Plus Tier or higher (or ask some for it as a gift!)
+[Realvision.com](https://realvision.com) - Free tier but I recommend investing in the Plus Tier or higher (or ask some for it as a gift!)
 
 ## Knowledgable, reliable YouTube Channels
 
